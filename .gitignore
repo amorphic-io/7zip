@@ -1,0 +1,8 @@
+# Misc
+/.direnv
+/.envrc
+
+# Bazel
+bazel-*
+MODULE.bazel.lock
+
