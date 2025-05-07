@@ -457,7 +457,7 @@ int Main2(
           wildcardCensorHead,
           eo,
           ecs, ecs, ecs,
-          // NULL, // hash
+          NULL, // hash
           errorMessage, stat);
 
       ecs->ClosePercents();
